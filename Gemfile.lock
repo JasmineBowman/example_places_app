@@ -142,7 +142,7 @@ GEM
       actionmailbox (= 6.1.7.7)
       actionmailer (= 6.1.7.7)
       actionpack (= 7.0.8.7)
-      actiontext (= 6.1.7.7)
+      actiontext (= 6.1.7.9)
       actionview (= 6.1.7.7)
       activejob (= 6.1.7.7)
       activemodel (= 6.1.7.7)
